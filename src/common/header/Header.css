@@ -9,3 +9,11 @@
     vertical-align: middle;
     padding: 10px;
 }
+.after-login{
+    float: right;
+    display: flex;
+}
+
+.greyed {
+ background-color: grey;
+}
